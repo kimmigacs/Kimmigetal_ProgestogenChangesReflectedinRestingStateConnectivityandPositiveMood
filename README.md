@@ -2,7 +2,7 @@
 
 Barcharts: R code and anonymized raw data provided. Running the scripts create and save the bar plot figures provided in the manuscript.
 
-RSA: Three Jupyter Notebook files are provided for the different types of intersubject RSAs presented in the manuscript, including all output.txt files: 
+IS-RSAs: Three Jupyter Notebook files are provided for the different types of intersubject RSAs presented in the manuscript, including all output.txt files: 
 1) hormonal change by parcel-wise resting state functional connectivity
 2) hormonal change by behavioral change
 3) parcel-wise resting state functional connectivity by behavioral change
