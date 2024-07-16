@@ -1,6 +1,6 @@
 ### **Analysis data and code for Kimmig et al.: "To start or to discontinue the pill – changes in progestogens are reflected by resting-state connectivity and positive mood"**
 
-Barplots: R code and anonymized raw data provided. Running the scripts create and save the bar plot figures provided in the manuscript.
+Barcharts: R code and anonymized raw data provided. Running the scripts create and save the bar plot figures provided in the manuscript.
 
 RSA: Three Jupyter Notebook files are provided for the different types of intersubject RSAs presented in the manuscript, including all output.txt files: 
 1) hormonal change by parcel-wise resting state functional connectivity
