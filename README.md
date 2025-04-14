@@ -1,4 +1,4 @@
-### **Analysis data and code for Kimmig et al.: "Progestogen Changes Reflected in Resting-State Connectivity and Positive Mood: Insights into Oral Contraceptive Use and Discontinuation"**
+### **Analysis data and code for Kimmig et al.: "Progestogen Changes Reflected in Resting-State Connectivity and Mood: Insights into Oral Contraceptive Use and Discontinuation"**
 
 <br>**Boxplots**: R code and anonymized source data provided. Running the scripts create and save the boxplot figures provided in the manuscript.
 
